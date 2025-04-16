@@ -29,6 +29,12 @@ _(C# + C++)_
 - **[Ghidra Game-Independent Auto-dumper of important offsets](https://github.com/han-naki/ghidra)**  
   _ie. `VisibilityCheckFn...`_
 
+### Critical Game-Vulnerability Showcase
+- **[Risk Of Rain 2 infinite DDOS Exploit](https://github.com/han-naki/critical-vulnerabilities)**
+- **[Fallout Shelter !MEGADOX! Exploit](https://github.com/han-naki/critical-vulnerabilities)**  
+  _First Name, Last Name, Email Address, Password, Credit/Debit Card_
+- **[Apple Music Precise Location Exploit](https://github.com/han-naki/critical-vulnerabilities)**
+  _also includes profileID, profile name history, date/time of login, and more_
 ---
 
 ## 📺 Popular Training Series
