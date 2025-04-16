@@ -6,24 +6,21 @@
 ## 👨‍💻 Software Development Projects:
 
 ### Kernel C++
-- **Automatic Windows OS kernel exploit development toolkit**  
-  [HyperLink](https://github.com/han-naki/kernel)
+- **[Automatic Windows kernel exploit development toolkit](https://github.com/han-naki/kernel)**  
 
-- **Clandestine Winternals driver copier**  
+- **[Clandestine Winternals driver duplicator](https://github.com/han-naki/kernel)**  
   _Auto assess: IOCTL comm., Exploitable Import/Export utilities, etc..._  
-  [HyperLink](https://github.com/han-naki/kernel)
 
 ### C++
-- **Ghidra Game Independent Auto-dumper of important offsets**  
+- **[Ghidra Game-Independent Auto-dumper of important offsets](https://github.com/han-naki/ghidra)**  
   _(Java, Python, Jython, C++, Pascal) – ie. `VisibilityCheckFn...`_  
-  [HyperLink](https://github.com/han-naki/ghidra)
 
 ### C#
-- **Quaternion Aimbot/ESP implementation** – *7 Days to Die*  
-  [HyperLink](https://github.com/han-naki/ghidra)
+- **[Quaternion Aimbot/ESP implementation](https://github.com/han-naki/ghidra)**
+_(7 Days to Die)_
 
-- **C# Hack Object Loader** – *(C# + C++)*  
-  [HyperLink](https://github.com/han-naki/C#)
+- **[C# Hack Object Loader](https://github.com/han-naki/C#)**
+_(C# + C++)_  
 
 ---
 
