@@ -11,7 +11,7 @@
 - **[Clandestine Windows Kernel .sys/.dll/.exe Duplicator](https://github.com/han-naki/kernel)**  
   _Auto assess: IOCTL comm., Exploitable Import/Export utilities, etc..._  
 
-### C++
+### C++ && x86ASM/x86-64ASM
 - **[147 Aimbot/Esp/Info-Dumper Proof Of Concepts As Of April 16, 2025](https://github.com/han-naki/C++)**  
   _Just mp4 proof. Code snippets available upon request_
 - **[Runtime/Static Dynamic Polymorphic Engine Dumper](https://github.com/han-naki/C++)**  
