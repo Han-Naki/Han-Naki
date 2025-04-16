@@ -6,21 +6,28 @@
 ## 👨‍💻 Software Development Projects:
 
 ### Kernel C++
-- **[Automatic Windows kernel exploit development toolkit](https://github.com/han-naki/kernel)**  
+- **[Automatic Malicious Windows Kernel Driver Development Toolkit](https://github.com/han-naki/kernel)**  
 
-- **[Clandestine Winternals driver duplicator](https://github.com/han-naki/kernel)**  
+- **[Clandestine Windows Kernel .sys/.dll/.exe Duplicator](https://github.com/han-naki/kernel)**  
   _Auto assess: IOCTL comm., Exploitable Import/Export utilities, etc..._  
 
 ### C++
-- **[Ghidra Game-Independent Auto-dumper of important offsets](https://github.com/han-naki/ghidra)**  
-  _(Java, Python, Jython, C++, Pascal) – ie. `VisibilityCheckFn...`_  
+- **[147 Aimbot/Esp/Info-Dumper Proof Of Concepts As Of April 16, 2025](https://github.com/han-naki/C++)**  
+  _Just mp4 proof. Code snippets available upon request_
+- **[Runtime/Static Dynamic Polymorphic Engine Dumper](https://github.com/han-naki/C++)**  
+  _Unreal Engine 1.0-4.11 dumper (1 of 3 in the world)_
 
 ### C#
-- **[Quaternion Aimbot/ESP implementation](https://github.com/han-naki/ghidra)**
+- **[Quaternion Aimbot/ESP implementation](https://github.com/han-naki/C#)**  
 _(7 Days to Die)_
 
-- **[C# Hack Object Loader](https://github.com/han-naki/C#)**
-_(C# + C++)_  
+- **[C# Hack Object Loader](https://github.com/han-naki/C#)**  
+_(C# + C++)_
+
+
+### Java/Python/Jython/Pascal/Powershell/CMD/Bash/Javascript
+- **[Ghidra Game-Independent Auto-dumper of important offsets](https://github.com/han-naki/ghidra)**  
+  _ie. `VisibilityCheckFn...`_
 
 ---
 
